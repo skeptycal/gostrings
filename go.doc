@@ -1,0 +1,4 @@
+package gostrings // import "github.com/skeptycal/gostrings"
+
+func Example()
+func Reverse(s string) string
